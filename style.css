@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --bg-color: #0d0d0d;
   --bg-secondary: #161616;
   --text-primary: #f2f2f2;
@@ -619,7 +619,7 @@ footer a:hover {
 
 /* Global Link Override to prevent default browser blue/purple */
 a { color: #ff5722; text-decoration: none; }
-a:visited { color: inherit; }
+
 a:hover { filter: brightness(1.2); }
 
 
@@ -649,3 +649,4 @@ a:hover { filter: brightness(1.2); }
         width: auto !important;
     }
 }
+
